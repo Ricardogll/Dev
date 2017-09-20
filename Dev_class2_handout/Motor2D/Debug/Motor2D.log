@@ -1,0 +1,2 @@
+﻿  j1Window.cpp
+c:\users\ricardo\desktop\citm\gamedev\dev_class2_handout\motor2d\j1window.cpp(106): error C3867: 'pugi::xml_attribute::value': non-standard syntax; use '&' to create a pointer to member
